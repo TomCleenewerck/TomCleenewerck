@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tom-cleenewerck-4a69651b8) 
+[Email](mailto:tom.cleenewerck@supinfo.com) - tom.cleenewerck@supinfo.com <br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tom-cleenewerck-4a69651b8) - Tom Cleenewerck
 
 # 💻 Tech Stack:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
